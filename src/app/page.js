@@ -47,7 +47,7 @@ export default function Home() {
         srcSecondary={dataSite.image_hero2}
         colorText={primaryColor}
       />
-      <div className="flex flex-col px-28" id="our-services">
+      <div className="flex flex-col px-28" id="mission">
         <Typography.Title
           level={3}
           className="text-white font-medium mb-10 text-center"
