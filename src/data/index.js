@@ -1,6 +1,6 @@
 
 export const pageName = "PromotoraTuristicaEspectaculosBahiaTurquesa";
-export const primaryColor = "#000000";
+export const primaryColor = "#003366";
 export const backgroundColor = "#FFFFFF";
 export const makeClearBackground = (color) => {
   return {
